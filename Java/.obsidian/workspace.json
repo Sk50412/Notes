@@ -11,12 +11,8 @@
             "id": "02bce166eb02bd6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes & objects/syn_class.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes & objects/syn_class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes & objects/syn_class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,14 +142,19 @@
   },
   "active": "ec6f89ca1e249966",
   "lastOpenFiles": [
+    "Classes & objects/syn_class.md",
+    "Classes & objects/classes.md",
+    "Classes & objects/classes, Types & objects.md",
+    "Classes & objects/class modifiers.md",
+    "Classes & objects",
+    "Java prog/syn_class.md",
+    "Java prog/classes.md",
+    "Java prog/class modifiers.md",
+    "Java prog/classes, Types & objects.md",
+    "Java prog",
     "Untitled.canvas",
     "2023-10-28.md",
-    "Classes & objects/classes, Types & objects.md",
-    "Classes & objects/syn_class.md",
-    "Classes & objects/class modifiers.md",
     "^.md",
-    "abstract.md",
-    "Classes & objects/classes.md",
-    "Classes & objects"
+    "abstract.md"
   ]
 }
