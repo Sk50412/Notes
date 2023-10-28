@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "c42b1f22d4f3eb69",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae5a0a36b6a00ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02bce166eb02bd6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java prog/syn_class.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93c18fad51b6c5f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e41713d8dbfc7a93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6f89ca1e249966",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18106408d1fb8013",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#abstract",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4302eb583b0b17c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8312a808121366f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db9f11dd08e06b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fba74696fd48892",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java prog/syn_class.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a39eb07aabd43ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java prog/syn_class.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f842618b4fbf2237",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6440615b96289745",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java prog/syn_class.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ec6f89ca1e249966",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2023-10-28.md",
+    "Java prog/classes, Types & objects.md",
+    "Java prog/syn_class.md",
+    "Java prog/class modifiers.md",
+    "^.md",
+    "abstract.md",
+    "Java prog/classes.md",
+    "Java prog"
+  ]
+}
