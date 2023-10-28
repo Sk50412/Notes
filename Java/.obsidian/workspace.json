@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java prog/syn_class.md",
+                "file": "Classes & objects/syn_class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java prog/syn_class.md",
+                "file": "Classes & objects/syn_class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java prog/syn_class.md",
+                "file": "Classes & objects/syn_class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java prog/syn_class.md"
+                "file": "Classes & objects/syn_class.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   "lastOpenFiles": [
     "Untitled.canvas",
     "2023-10-28.md",
-    "Java prog/classes, Types & objects.md",
-    "Java prog/syn_class.md",
-    "Java prog/class modifiers.md",
+    "Classes & objects/classes, Types & objects.md",
+    "Classes & objects/syn_class.md",
+    "Classes & objects/class modifiers.md",
     "^.md",
     "abstract.md",
-    "Java prog/classes.md",
-    "Java prog"
+    "Classes & objects/classes.md",
+    "Classes & objects"
   ]
 }
