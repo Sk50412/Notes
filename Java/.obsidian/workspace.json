@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "dae5a0a36b6a00ad",
+        "id": "a84f15054ece6622",
         "type": "tabs",
         "children": [
           {
-            "id": "02bce166eb02bd6d",
+            "id": "487f393636e2c4b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#abstract",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
     "id": "8312a808121366f8",
@@ -75,33 +75,6 @@
         "id": "4db9f11dd08e06b8",
         "type": "tabs",
         "children": [
-          {
-            "id": "5fba74696fd48892",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4a39eb07aabd43ea",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "f842618b4fbf2237",
             "type": "leaf",
@@ -118,12 +91,38 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a13ee95001d56b7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "Classes & objects/syn_class.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33bc8dad78d1f720",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,21 +139,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec6f89ca1e249966",
+  "active": "487f393636e2c4b5",
   "lastOpenFiles": [
-    "Classes & objects/syn_class.md",
-    "Classes & objects/classes.md",
-    "Classes & objects/classes, Types & objects.md",
-    "Classes & objects/class modifiers.md",
-    "Classes & objects",
-    "Java prog/syn_class.md",
-    "Java prog/classes.md",
-    "Java prog/class modifiers.md",
-    "Java prog/classes, Types & objects.md",
-    "Java prog",
+    "Java basics/Types of operators.md",
+    "Java basics/Syntax.md",
+    "If and switch statements.md",
+    "Control Flow.md",
+    "casting.md",
+    "Java basics/Expressions.md",
+    "Java basics/1Start.md",
+    "Java basics/Methods.md",
+    "literals.md",
+    "Java basics/classes, Types & objects.md",
+    "Java basics/objects.md",
+    "Java basics/base type.md",
+    "Java basics/classes.md",
+    "Java basics/Abstract.md",
+    "Java basics/operators.md",
+    "Java basics/operator precedence.md",
+    "Java basics/Static.md",
+    "Java basics/Private.md",
+    "Java basics/Final.md",
+    "Classes , types & objects/Class modifiers.md",
+    "Java basics/Friendly.md",
+    "Java basics/Variables.md",
+    "variable modifiers.md",
+    "Java basics/Public.md",
+    "Java basics/Protected.md",
+    "syn_var.md",
+    "Public",
     "Untitled.canvas",
-    "2023-10-28.md",
-    "^.md",
-    "abstract.md"
+    "Java basics",
+    "Java prog"
   ]
 }

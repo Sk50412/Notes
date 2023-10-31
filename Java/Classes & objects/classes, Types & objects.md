@@ -1,2 +1,0 @@
-[[classes|what are classes]]
-

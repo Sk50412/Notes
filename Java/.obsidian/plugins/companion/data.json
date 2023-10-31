@@ -1,0 +1,25 @@
+{
+  "provider": "openai-chatgpt",
+  "model": "gpt-3.5-turbo",
+  "enable_by_default": false,
+  "keybind": "Tab",
+  "delay_ms": 4000,
+  "accept": {
+    "splitter_regex": " ",
+    "display_splitter_regex": "\\.",
+    "completion_completeness_regex": ".*(?!p{L})[^d]$",
+    "min_accept_length": 4,
+    "min_display_length": 50,
+    "retrigger_threshold": 48
+  },
+  "provider_settings": {
+    "openai-chatgpt": {
+      "settings": "{\"api_key\":\"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\"}",
+      "models": {
+        "gpt-3.5-turbo": "{\"system_prompt\":\"You are trying to give a long suggestion on how to complete the user's message. Complete in the language of the original message. Write only the completion and nothing else. Do not include the user's text in your message. Only include the completion.\",\"user_prompt\":\"Continue the following:\\n\\n{{prefix}}\",\"presence_penalty\":10,\"frequency_penalty\":10}"
+      }
+    }
+  },
+  "presets": [],
+  "fallback": null
+}
